@@ -1,5 +1,5 @@
 # Hello I am Swapnil Kuri
-# 💫 About Me: I'm Currently Working on Lizon Education<br>I'm Currently Learning React js and node js
+# 💫 About Me: I'm Currently Working on Lizon Education and Oneshere Tech
 
 
 ## 🌐 Socials:
