@@ -47,6 +47,17 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+............
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=swapnilkuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=swapnilkuri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnilkuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
 </p>
