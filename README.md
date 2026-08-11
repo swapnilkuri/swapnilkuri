@@ -17,10 +17,12 @@
 <table border="0">
   <tr>
     <td width="60%" valign="top">
--<h3 align="center">💼 I’m currently working with Lizon Education and Oneshere Tech</h3>
+<h3 align="center">💼 I’m currently working with Lizon Education and Oneshere Tech</h3>
 - 🔭 Watch my currently project [Ecommerce Website](https://castleofprincess.com/)
 - 👨‍💻 All of my projects are available at [https://project-0ibeh.vercel.app/](https://project-0ibeh.vercel.app/)
 - 📫 How to reach me: **swapnil7kuri@gmail.com**
+
+
 
     </td>
   <td width="40%" align="center" valign="middle">
