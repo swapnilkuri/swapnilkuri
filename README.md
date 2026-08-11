@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm swapnil kuri</h1>
 <h3 align="center">🔭 I’m currently working on Lizon Education and Oneshere Tech</h3>
+///////////////////////////////////////////////////////
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=180&section=header&text=Ayan%20Paul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Ayan Paul Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0076B6FF&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;AI+%26+Deep+Learning+Enthusiast;Full+Stack+Web+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayan-paul-2001&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ayan-paul-2001?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ayan-paul-2001?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
+//////////////////////////////////////////////////////
 <table border="0">
   <tr>
     <td width="60%">
