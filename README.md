@@ -24,7 +24,7 @@
 
     </td>
   <td width="40%" align="center" valign="middle">
-      <img src="https://drive.google.com/drive/folders/1NqQtkstLL8BRYb8Vj6O6e-mMB1JFIOHe" width="100%" alt="Coding Animation" />
+      <img src="https://github.com/swapnilkuri/swapnilkuri/blob/main/Nft%20Coding%20GIF.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
