@@ -23,8 +23,8 @@
 - 📫 How to reach me: **swapnil7kuri@gmail.com**
 
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGG4dbuxyGH4Px6/giphy.gif" width="100%" alt="Coding Animation" />
+  <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/everettr/everettr/main/assets/coding.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
