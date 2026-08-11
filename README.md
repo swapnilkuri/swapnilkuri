@@ -7,6 +7,13 @@
 - 👨‍💻 All of my projects are available at [https://project-0ibeh.vercel.app/](https://project-0ibeh.vercel.app/)
 - 📫 How to reach me: **swapnil7kuri@gmail.com**
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/swapnil-kuri-464247377" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-kuri" height="30" width="40" /></a>
@@ -17,11 +24,6 @@
 
 
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 
