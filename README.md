@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0076B6FF&center=true&vCenter=true&width=600&height=60&lines=AI+%26+Deep+Learning+Enthusiast;Full+Stack+Web+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0076B6FF&center=true&vCenter=true&width=700&height=60&lines=AI+%26+Deep+Learning+Enthusiast;Full+Stack+Web+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
+
 <!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swapnil-kuri&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
@@ -13,17 +14,17 @@
 </p>
 -->
 
-
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="60%" valign="top">
 
 - 🔭 I’m currently working on [Ecommerce Website](https://castleofprincess.com/)
 - 👨‍💻 All of my projects are available at [https://project-0ibeh.vercel.app/](https://project-0ibeh.vercel.app/)
 - 📫 How to reach me: **swapnil7kuri@gmail.com**
+
     </td>
-    <td width="40%" align="center">
-      <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="100%" alt="Coding Animation" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUGG4dbuxyGH4Px6/giphy.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -32,13 +33,13 @@
 - **Education**: Bsc in Computer Science & Engineering
 - **Major**: Information System
 - **University**: American International University-Bangladesh (AIUB)
----
-<!-- Snake Game Repo View -->
 
+---
+
+<!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,13 +49,8 @@
   <a href="https://www.youtube.com/c/@detxislive" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@detxislive" height="30" width="40" /></a>
 </p>
 
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -73,18 +69,13 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-............
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swapnilkuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=swapnilkuri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnilkuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=swapnilkuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=swapnilkuri&theme=dark&hide_border=false" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swapnilkuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
 </p>
-
-
-
