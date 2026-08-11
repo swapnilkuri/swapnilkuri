@@ -27,7 +27,11 @@
     </td>
   </tr>
 </table>
+<br/>
 
+- **Education**: Bsc in Computer Science & Engineering
+- **Major**: Information System
+- **University**: American International University-Bangladesh (AIUB)
 
 <!-- Snake Game Repo View -->
 
