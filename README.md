@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm swapnil kuri</h1>
 <h3 align="center">🔭 I’m currently working on Lizon Education and Oneshere Tech</h3>
 
-<p align="center"> 
-  <a href="https://github.com/swapnilkuri">
-    <img src="https://github-profile-trophy.vercel.app/?username=swapnilkuri&theme=flat" alt="swapnilkuri trophy" />
-  </a> 
-</p>
+
 
 - 🔭 I’m currently working on [Ecommerce Website](https://castleofprincess.com/)
 - 👨‍💻 All of my projects are available at [https://project-0ibeh.vercel.app/](https://project-0ibeh.vercel.app/)
@@ -39,10 +35,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilkuri&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnilkuri&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
