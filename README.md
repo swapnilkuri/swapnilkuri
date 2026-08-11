@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm swapnil kuri</h1>
 <h3 align="center">🔭 I’m currently working on Lizon Education and Oneshere Tech</h3>
 
-
+<table border="0">
+  <tr>
+    <td width="60%">
 
 - 🔭 I’m currently working on [Ecommerce Website](https://castleofprincess.com/)
 - 👨‍💻 All of my projects are available at [https://project-0ibeh.vercel.app/](https://project-0ibeh.vercel.app/)
 - 📫 How to reach me: **swapnil7kuri@gmail.com**
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
 
 <!-- Snake Game Repo View -->
 
